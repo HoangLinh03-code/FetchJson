@@ -70,7 +70,7 @@ def extract_answers_with_ai(pdf_path, output_json_path):
           {"nhan": "C", "noi_dung": "\\sqrt{6}"},
           {"nhan": "D", "noi_dung": "\\sqrt{216}"}
         ],
-        "dap_an_dung": "D",
+        "dap_an_dung": "D"
       },
       {
         "loai_cau": "DS",
@@ -83,7 +83,7 @@ def extract_answers_with_ai(pdf_path, output_json_path):
           {"nhan": "c", "noi_dung": "Giá trị lớn nhất của hàm số là 3."},
           {"nhan": "d", "noi_dung": "Đồ thị hàm số cắt trục tung tại điểm có tung độ bằng 1."}
         ],
-        "dap_an_dung": "a-Đúng, b-Sai, c-Đúng, d-Sai",
+        "dap_an_dung": "a-Đúng, b-Sai, c-Đúng, d-Sai"
       },
       {
         "loai_cau": "DIEN",
@@ -91,7 +91,7 @@ def extract_answers_with_ai(pdf_path, output_json_path):
         "noi_dung_cau_hoi": "Một người ở vị trí có toạ độ (-4;4) di chuyển...",
         "co_hinh_anh": true,
         "cac_dap_an": [],
-        "dap_an_dung": "0,61",
+        "dap_an_dung": "0,61"
       }
     ]
     """
@@ -102,7 +102,7 @@ def extract_answers_with_ai(pdf_path, output_json_path):
         response_text = client.send_data_to_AI(
             prompt=prompt,
             file_paths=[pdf_path],
-            temperature=0.0 # Bắt buộc giữ 0.0 để AI tập trung trích xuất, không bay bổng
+            temperature=0.1 # Bắt buộc giữ 0.0 để AI tập trung trích xuất, không bay bổng
         )
         
         if response_text and not response_text.startswith("❌"):
@@ -115,9 +115,9 @@ def extract_answers_with_ai(pdf_path, output_json_path):
             print(f"✅ HOÀN THÀNH! Đã trích xuất {len(parsed_data)} bản ghi. Đã lưu vào: {output_json_path}")
             
             # Print sample để kiểm tra nhanh 3 bản ghi đầu và cuối
-            print("\n--- MẪU KẾT QUẢ (3 bản ghi đầu) ---")
-            print(json.dumps(parsed_data[:3], indent=2, ensure_ascii=False))
-            print("...")
+            # print("\n--- MẪU KẾT QUẢ (3 bản ghi đầu) ---")
+            # # print(json.dumps(parsed_data[:3], indent=2, ensure_ascii=False))
+            # print("...")
             
         else:
             print("❌ AI không trả về kết quả hợp lệ.")

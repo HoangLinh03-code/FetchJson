@@ -10,8 +10,7 @@ def clean_text(text):
     if not text: return ""
     text = str(text)
     
-    # 1. FIX LỖI HTML: Chỉ xóa thẻ HTML thực sự (bắt đầu bằng < và chữ cái hoặc / )
-    # Điều này giúp giữ lại dấu nhỏ hơn < trong các bất phương trình Toán học.
+    # 1. FIX LỖI HTML: Chỉ xóa thẻ HTML thực sự
     text = re.sub(r"<[a-zA-Z/][^>]*>", "", text)
     
     # 2. Thay thế các ký tự đặc biệt của HTML
@@ -38,15 +37,16 @@ def clean_text(text):
     for uni_char, latex_code in unicode_math_map.items():
         text = text.replace(uni_char, latex_code)
         
-    # 4. CHUẨN HÓA LATEX: Bỏ các lệnh bọc ngoặc vô nghĩa & Đồng nhất các ký hiệu
+    # 4. CHUẨN HÓA LATEX & XÓA KÝ TỰ BAO BỌC
+    text = text.replace("$", "") # <--- THÊM DÒNG NÀY ĐỂ XÓA DẤU $
     text = text.replace("\\left", "")
     text = text.replace("\\right", "")
     text = text.replace("\\geqslant", "\\ge") 
     text = text.replace("\\leqslant", "\\le") 
-    text = text.replace("\\geq", "\\ge") # Đồng nhất \geq thành \ge
-    text = text.replace("\\leq", "\\le") # Đồng nhất \leq thành \le
+    text = text.replace("\\geq", "\\ge") 
+    text = text.replace("\\leq", "\\le") 
     
-    # 5. Xóa SẠCH toàn bộ dấu cách (vì trong công thức Toán dấu cách không có ý nghĩa)
+    # 5. Xóa SẠCH toàn bộ dấu cách
     text = text.replace(" ", "")
     
     # 6. Cắt bỏ dấu chấm, phẩy ở tận cùng
@@ -121,6 +121,20 @@ def compare_exams(ai_json_path, sys_json_path):
         
         # 2. ĐỐI CHIẾU ĐÁP ÁN DỰA TRÊN DẠNG CÂU HỎI
         print(f"✅ Câu {cau_so} (Match {score*100:.1f}%): Đã tìm thấy trên hệ thống.")
+
+        if loai_cau in ["TN", "DS"]:
+            so_luong_ai = len(ai_q.get("cac_dap_an", []))
+            so_luong_sys = len(sys_q.get("options", []))
+            
+            # Cảnh báo nếu số lượng giữa file gốc (AI) và Hệ thống không khớp
+            if so_luong_ai != so_luong_sys:
+                print(f"  -> ⚠️ LỆCH SỐ LƯỢNG: Đề gốc có {so_luong_ai} ý/đáp án, nhưng Hệ thống có {so_luong_sys} ý/đáp án!")
+            
+            # Cảnh báo nếu số lượng trên hệ thống không chuẩn là 4
+            if so_luong_sys < 4:
+                print(f"  -> ❌ LỖI THIẾU ĐÁP ÁN/Ý: Hệ thống chỉ có {so_luong_sys} lựa chọn. (Có thể do biên tập thiếu hoặc hệ thống không bắt được)")
+            elif so_luong_sys > 4:
+                print(f"  -> ❌ LỖI THỪA ĐÁP ÁN/Ý: Hệ thống có tới {so_luong_sys} lựa chọn thay vì 4.")
         
         if loai_cau == "TN": # Trắc nghiệm (type 0)
             so_luong_ai = len(ai_q.get("cac_dap_an", []))
