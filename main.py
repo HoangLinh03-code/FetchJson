@@ -54,7 +54,7 @@ for d in [check_answer_dir, get_data_dir, export_script_dir]:
 
 try:
     from GetData.fetch import load_from_url
-    from CheckAnswer.ai_check_de import process_exam_universal
+    from CheckAnswer.scanAI import process_exam_universal
     from CheckAnswer.check_answer import (flatten_pdf_questions, flatten_sys_questions, find_matching_sys_q, 
                                     check_image_issues, check_formula_issues, check_TN, check_DS, check_DIEN, strip_html)
     from export.export_excel import export_to_excel

@@ -33,7 +33,7 @@ CheckDeHeThong/
 │ ├── callAPI.py                # Xác thực credentials, init VertexClient, xử lý file gửi lên AI
 │ └── schema.py                 # Khai báo cấu trúc JSON Schema ép buộc AI phải tuân thủ
 ├── CheckAnswer/                # Core Logic của hệ thống
-│ ├── ai_check_de.py            # Điều khiển luồng AI bóc tách từ PDF sang JSON
+│ ├── scanAI.py                 # Điều khiển luồng AI bóc tách từ PDF sang JSON
 │ ├── check_answer.py           # (Engine) Thuật toán so khớp văn bản, chuẩn hóa công thức và bắt lỗi
 │ ├── prompt.txt                # System Prompt chứa luật bóc tách khắt khe cho AI
 │ └── testAI.py                 # File script phục vụ debug thuật toán độc lập
