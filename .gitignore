@@ -1,8 +1,4 @@
-*.xlsx
 venv/
-*.docx
-*.pdf
-*.json
 onluyen_data/
 .env
 __pycache__/

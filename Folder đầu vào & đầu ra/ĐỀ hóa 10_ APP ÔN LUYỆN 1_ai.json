@@ -1,0 +1,656 @@
+[
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 1,
+    "noi_dung_cau_hoi": "Cho các quá trình sau:\n(1) Đốt than củi.\n(2) Hoà tan muối ăn\n(3) Sắt để lâu trong không khí bị gỉ.\n(4) Đốt bột lưu huỳnh trong không khí.\nSố quá trình xảy ra phản ứng oxi hoá – khử là",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "1."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "2."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "3."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "4."
+      }
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 2,
+    "noi_dung_cau_hoi": "Cho phản ứng: $aFe + bHNO_3 \\rightarrow cFe(NO_3)_3 + dNO + eH_2O$. Các hệ số a, b, c, d, e là những số nguyên, tối giản nhất. Tổng (a + b) bằng",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "4."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "3."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "6."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "5."
+      }
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 3,
+    "noi_dung_cau_hoi": "Số oxi hóa của nguyên tố Chlorine (Cl) trong hợp chất nào sau đây là cao nhất?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "NaCl."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "HClO."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "HCl."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "KClO3."
+      }
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 4,
+    "noi_dung_cau_hoi": "Dấu hiệu để nhận ra phản ứng là phản ứng oxi hóa – khử dựa trên sự thay đổi đại lượng nào sau đây của nguyên tử?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Số oxi hóa."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Số khối."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Số mol."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Số proton."
+      }
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 5,
+    "noi_dung_cau_hoi": "Quá trình Ostwald dùng để sản xuất nitric acid từ ammonia được đề xuất vào năm 1902 có phản ứng: $4NH_3(g) + 5O_2(g) \\xrightarrow{t^0} 4NO(g) + 6H_2O(g)$. Chất bị oxi hoá trong quá trình trên là:",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "NH3."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "O2."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "NO."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "H2O."
+      }
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 6,
+    "noi_dung_cau_hoi": "Khi động cơ đốt trong của xe máy, ôtô, … hoạt động; bên cạnh sự đốt cháy nhiên liệu để sinh ra năng lượng cho xe hoạt động còn có sự đốt cháy các tạp chất trong nhiên liệu như sulfur hay sự đốt cháy khí N2 (có trong không khí) để tạo ra các khí như CO2, NO, NO2 ... gây ô nhiễm môi trường. Vai trò của oxygen trong các phản ứng trên là\n[HÌNH_ẢNH]\nHình 4.17. Các khí gây ô nhiễm môi trường khi động cơ đốt của ô tô hoạt động",
+    "co_hinh": true,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Chất môi trường."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Chất khử."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Chất oxi hóa."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Chất xúc tác."
+      }
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 7,
+    "noi_dung_cau_hoi": "Quá trình nào sau đây là quá trình thu nhiệt?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Để nguội thức ăn vừa nấu chín."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Đốt than đá."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Đốt cháy xăng."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Nung vôi."
+      }
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 8,
+    "noi_dung_cau_hoi": "Chất nào sau đây có nhiệt tạo thành chuẩn khác 0?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "N2(g)."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "S(s)."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "K(s)."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "CO2(g)."
+      }
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 9,
+    "noi_dung_cau_hoi": "Phản ứng tỏa nhiệt có",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "$\\Delta_r H \\ge 0$."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "$\\Delta_r H = 0$."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "$\\Delta_r H < 0$."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "$\\Delta_r H > 0$."
+      }
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 10,
+    "noi_dung_cau_hoi": "Điều kiện nào sau đây là điều kiện chuẩn đối với chất khí?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "273K và 1 bar."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "298K và 1 bar."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "273K và 0 bar."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "298K và 0 bar."
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 11,
+    "noi_dung_cau_hoi": "Cho phương trình nhiệt hóa học: $3H_2(g) + N_2(g) \\xrightarrow{t^o} 2NH_3(g)$ $\\Delta_r H^o_{298} = -91,8$ kJ/mol\nNhiệt tạo thành NH3(g) ở điều kiện chuẩn (kJ/mol) là:",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "+45,9."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "-91,8."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "91,8."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "-45,9."
+      }
+    ],
+    "dap_an_dung": "D"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 12,
+    "noi_dung_cau_hoi": "Khi nướng mực, người ta sử dụng phản ứng đốt cháy cồn để cung cấp nhiệt cho mực chín. Đốt cháy cồn là phản ứng :",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Thu nhiệt."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Toả nhiệt."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Trao đổi."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Phân huỷ."
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 13,
+    "noi_dung_cau_hoi": "Cho phản ứng: $2NaCl(s) \\rightarrow 2Na(s) + Cl_2(g)$.\nBiết $\\Delta_f H^0_{298(NaCl)} = -411,2$ (kJ/mol). Biến thiên enthalpy chuẩn của phản ứng trên là",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "- 822,4 kJ."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "+822,4 kJ."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "- 411,2 kJ."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "+411,2 kJ."
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 14,
+    "noi_dung_cau_hoi": "Hình ảnh dưới đây minh họa ảnh hưởng của yếu tố nào tới tốc độ phản ứng:\n[HÌNH_ẢNH]",
+    "co_hinh": true,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Diện tích tiếp xúc."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Nhiệt độ."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Áp suất."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Chất xúc tác."
+      }
+    ],
+    "dap_an_dung": "C"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 15,
+    "noi_dung_cau_hoi": "Thực hiện phản ứng sau trong bình kín: $H_2 (g) + Br_2 (g) \\rightarrow 2HBr (g)$ thu được số liệu sau:\n[BẢNG_BIỂU]\nBảng 6.17. Sự biến đổi nồng độ Br2 theo thời gian\nTốc độ trung bình của phản ứng tính theo Br2 trong khoảng thời gian trên là",
+    "co_hinh": false,
+    "co_bang": true,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "$8.10^{-4}$ mol/(L.s)."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "$2.10^{-4}$ mol/(L.s)."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "$6.10^{-4}$ mol/(L.s)."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "$4.10^{-4}$ mol/(L.s)."
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 16,
+    "noi_dung_cau_hoi": "Có 3 cốc chứa 20ml dung dịch H2O2 cùng nồng độ. Tiến hành 3 thí nghiệm như hình vẽ sau:\n[HÌNH_ẢNH]\nỞ thí nghiệm nào có bọt khí thoát ra chậm nhất?",
+    "co_hinh": true,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Thí nghiệm cốc 1."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Thí nghiệm cốc 2."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Thí nghiệm cốc 3."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "3 thí nghiệm như nhau."
+      }
+    ],
+    "dap_an_dung": "A"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 17,
+    "noi_dung_cau_hoi": "Yếu tố nào được sử dụng để làm tăng tốc độ của phản ứng khi rắc men vào tinh bột đã được nấu chín (cơm, ngô, khoai, sắn) để ủ rượu?\n[HÌNH_ẢNH]",
+    "co_hinh": true,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Nhiệt độ."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Chất xúc tác."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Nồng độ."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Áp suất"
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "trac_nghiem",
+    "cau_so": 18,
+    "noi_dung_cau_hoi": "Để đánh giá mức độ xảy ra nhanh hay chậm của các phản ứng hoá học người ta dùng đại lượng nào dưới đây?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "A",
+        "noi_dung": "Nhiệt độ."
+      },
+      {
+        "nhan": "B",
+        "noi_dung": "Tốc độ phản ứng."
+      },
+      {
+        "nhan": "C",
+        "noi_dung": "Áp suất."
+      },
+      {
+        "nhan": "D",
+        "noi_dung": "Thể tích khí."
+      }
+    ],
+    "dap_an_dung": "B"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "dung_sai",
+    "cau_so": 1,
+    "noi_dung_cau_hoi": "Cho phản ứng xảy ra khi đốt cháy carbon trong than đá: $C + O_2 \\xrightarrow{t^0} CO_2$.",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "a",
+        "noi_dung": "Chất oxi hoá là Oxygen."
+      },
+      {
+        "nhan": "b",
+        "noi_dung": "Phản ứng cháy kèm theo sự thu nhiệt."
+      },
+      {
+        "nhan": "c",
+        "noi_dung": "Mỗi mol C nhường 4 mol electron."
+      },
+      {
+        "nhan": "d",
+        "noi_dung": "O2 bị C oxi hóa thành CO2."
+      }
+    ],
+    "dap_an_dung": "a - Đúng, b - Sai, c - Đúng, d - Sai"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "dung_sai",
+    "cau_so": 2,
+    "noi_dung_cau_hoi": "Cho phương trình nhiệt hóa học sau:\n$C_2H_5OH(l) + 3O_2(g) \\xrightarrow{t^0} 2CO_2(g) + 3H_2O(g)$ $\\Delta_r H^o_{298} = -1234,83$ kJ",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "a",
+        "noi_dung": "Phản ứng trên là phản ứng tỏa nhiệt."
+      },
+      {
+        "nhan": "b",
+        "noi_dung": "Nhiệt tạo thành chuẩn của O2(g) bằng 0."
+      },
+      {
+        "nhan": "c",
+        "noi_dung": "Khi cháy toả nhiều nhiệt nên C2H5OH được dùng làm nhiên liệu cho các đèn cồn trong phòng thí nghiệm, được pha vào xăng dùng cho động cơ đốt trong."
+      },
+      {
+        "nhan": "d",
+        "noi_dung": "Tổng nhiệt tạo thành của các chất tham gia phản ứng trên nhỏ hơn tổng nhiệt tạo thành của các chất sản phẩm."
+      }
+    ],
+    "dap_an_dung": "a - Đúng, b - Đúng, c - Đúng, d - Sai"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "dung_sai",
+    "cau_so": 3,
+    "noi_dung_cau_hoi": "Cho cùng một lượng đá vôi CaCO3 vào bình tam giác chứa lượng dư dung dịch HCl như nhau, bình (1) dùng đá vôi dạng viên, bình (2) dùng đá vôi dạng bột.\nPhản ứng xảy ra như sau: $CaCO_3 + 2HCl \\rightarrow CaCl_2 + H_2O + CO_2$.\n[HÌNH_ẢNH]",
+    "co_hinh": true,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "a",
+        "noi_dung": "Phản ứng trong bình tam giác (1) có tốc độ thoát khí nhanh hơn."
+      },
+      {
+        "nhan": "b",
+        "noi_dung": "Sau phản ứng, ở bình (2) thu được nhiều khí hơn."
+      },
+      {
+        "nhan": "c",
+        "noi_dung": "Bình (2) phản ứng xảy ra xong trước bình (1)."
+      },
+      {
+        "nhan": "d",
+        "noi_dung": "Nếu đun nóng cả 2 bình thì khí thoát ra sẽ nhanh hơn nữa."
+      }
+    ],
+    "dap_an_dung": "a - Sai, b - Sai, c - Đúng, d - Đúng"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "dung_sai",
+    "cau_so": 4,
+    "noi_dung_cau_hoi": "Cho 2 phương trình nhiệt hóa học sau:\n$C (s) + H_2O (g) \\rightarrow CO (g) + H_2 (g)$ $\\Delta_r H^o_{298} = +121,25$ kJ (1)\n$CuSO_4 (aq) + Zn (s) \\rightarrow ZnSO_4 (aq) + Cu (s)$ $\\Delta_r H^o_{298} = -230,04$ kJ (2)",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [
+      {
+        "nhan": "a",
+        "noi_dung": "Phản ứng (1) là phản ứng tỏa nhiệt, phản ứng (2) là phản ứng thu nhiệt."
+      },
+      {
+        "nhan": "b",
+        "noi_dung": "Phản ứng (1) là phản ứng thu nhiệt, phản ứng (2) là phản ứng tỏa nhiệt ."
+      },
+      {
+        "nhan": "c",
+        "noi_dung": "Phản ứng (1) và (2) là phản ứng thu nhiệt."
+      },
+      {
+        "nhan": "d",
+        "noi_dung": "Phản ứng (1) và (2) là phản ứng tỏa nhiệt."
+      }
+    ],
+    "dap_an_dung": "a - Sai, b - Đúng, c - Sai, d - Sai"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 1,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nTrong các chất sau: HCl, NaClO, FeCl3, KClO3, Cl2. Có mấy chất chứa nguyên tử Chlorine (Cl) có số oxi hoá là -1?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [],
+    "dap_an_dung": "2"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 2,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nPhản ứng đốt cháy methane xảy ra như sau:\n$CH_4(g) + 2O_2(g) \\xrightarrow{t^o} CO_2(g) + 2H_2O(l)$\nGiá trị biến thiên enthalpy chuẩn của phản ứng tính theo nhiệt tạo thành có giá trị là\nBiết nhiệt tạo thành chuẩn của các chất\n[BẢNG_BIỂU]",
+    "co_hinh": false,
+    "co_bang": true,
+    "cac_lua_chon": [],
+    "dap_an_dung": "-890,3"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 3,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nDưới đây là một số hiện tượng xảy ra trong đời sống, hãy sắp xếp theo thứ tự tốc độ giảm dần (Ví dụ 1234):\n(1) Nướng bánh mì.\n(2) Đốt gas khi nấu ăn.\n(3) Lên men sữa tạo sữa chua.\n(4) Tấm tôn thiếc bị gỉ sét.",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [],
+    "dap_an_dung": "2134"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 4,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nCho phản ứng đốt cháy các chất: C(s), CH3OH(l), CH4(g), C2H2(g) như sau:\n(1) $C(s) + O_2(g) \\rightarrow CO_2(g)$ $\\Delta_r H^o_{298} = -393,5$ kJ/mol\n(2) $CH_3OH(l) + \\frac{3}{2}O_2(g) \\rightarrow CO_2(g)$ $\\Delta_r H^o_{298} = -726$ kJ/mol\n(3) $CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$ $\\Delta_r H^o_{298} = -890,36$ kJ/mol\n(4) $C_2H_2(g) + \\frac{5}{2}O_2(g) \\rightarrow 2CO_2(g) + H_2O (l)$ $\\Delta_r H^o_{298} = -1299,58$ kJ/mol\nĐốt cháy lần lượt 1 mol các chất trên, phản ứng nào tỏa ra lượng nhiệt nhiều nhất?",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [],
+    "dap_an_dung": "4"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 5,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nCho biết phản ứng tạo thành 2 mol HCl(g) ở điều kiện chuẩn sau đây tỏa ra 184,6kJ:\n$H_2(g) + Cl_2(g) \\rightarrow 2HCl(g)$ (*)\nCho các phát biểu:\n(a) Nhiệt tạo thành của HCl là $-184,6$ kJ $mol^{-1}$.\n(b) Biến thiên enthalpy phản ứng (*) là $-184,6$ kJ.\n(c) Nhiệt tạo thành của HCl là $-92,3$ kJ $mol^{-1}$.\n(d) Biến thiên enthalpy phản ứng (*) là $-92,3$ kJ.\nSố phát biểu đúng là",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [],
+    "dap_an_dung": "2"
+  },
+  {
+    "loai_block": "cau_hoi_don",
+    "loai_cau_hoi": "tra_loi_ngan",
+    "cau_so": 6,
+    "noi_dung_cau_hoi": "Điền đáp án thích hợp vào ô trống (chỉ sử dụng chữ số, dấu \",\" và dấu \"-\")\nKhi tăng thêm $10^\\circ C$, tốc độ một phản ứng hoá học tăng lên 2 lần. Tốc độ phản ứng sẽ thay đổi như thế nào khi tăng nhiệt độ của phản ứng đó từ $25^\\circ C$ lên $75^\\circ C$",
+    "co_hinh": false,
+    "co_bang": false,
+    "cac_lua_chon": [],
+    "dap_an_dung": "32"
+  }
+]
