@@ -1,8 +1,4 @@
-*.xlsx
 venv/
-*.docx
-*.pdf
-*.json
 onluyen_data/
 .env
 __pycache__/
@@ -10,3 +6,8 @@ test.py
 *.spec
 build/
 dist/
+error_log.txt
+*.docx
+*.json
+*.pdf 
+*.xlsx
