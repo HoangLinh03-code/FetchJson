@@ -586,7 +586,7 @@ if __name__ == "__main__":
     if len(_sys.argv) == 3:
         PDF_FILE = _sys.argv[1]
         SYS_FILE = _sys.argv[2]
-    else:
+    else: 
         PDF_FILE = "D:\CheckTool\FetchJson\dapan_Toan_pdf.json"
         SYS_FILE = "D:\CheckTool\FetchJson\onluyen_data\\69cf66813268c911d45bc75e.json"
 
